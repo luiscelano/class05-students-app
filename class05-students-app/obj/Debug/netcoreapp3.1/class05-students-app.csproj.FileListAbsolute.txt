@@ -1,0 +1,13 @@
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.exe
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.deps.json
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.runtimeconfig.json
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.runtimeconfig.dev.json
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.dll
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\bin\Debug\netcoreapp3.1\class05-students-app.pdb
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.csprojAssemblyReference.cache
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.AssemblyInfo.cs
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.dll
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.pdb
+C:\Users\luisc\Documents\universidad\programacion1\class05-students-app\class05-students-app\obj\Debug\netcoreapp3.1\class05-students-app.genruntimeconfig.cache
